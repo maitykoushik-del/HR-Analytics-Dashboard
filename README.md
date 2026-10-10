@@ -36,7 +36,7 @@ and understand factors associated with employee turnover.
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard]([HR_Analytics_Dashboard.png](https://github.com/maitykoushik-del/HR-Analytics-Dashboard/blob/main/HR%20ANALYSIS%20DASKBOARD.png))
 
 ## Key Insights
 
